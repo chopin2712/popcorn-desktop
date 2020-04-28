@@ -18,6 +18,10 @@ Visit the project's website at <https://popcorntime.app>.
 
 ## Install
 
+#### Linux (beta)
+
+You can install the Popcorn Time on Linux using the official deb package provided [here](https://github.com/popcorn-official/popcorn-desktop/releases) or using the instructions provided [here](https://www.reddit.com/r/PopCornTime/comments/fnw6zz/im_trying_to_install_popcorntime_from_the_app/flcnsjw/).
+
 #### macOS:
 
 Easily install Popcorn Time via _[Homebrew](https://brew.sh) ([Cask](https://github.com/Homebrew/homebrew-cask#homebrew-cask))_ with `brew cask install https://raw.githubusercontent.com/popcorn-official/popcorn-desktop/development/casks/popcorn-time.rb`, or `brew cask install https://raw.githubusercontent.com/popcorn-official/popcorn-desktop/development/casks/popcorn-time-beta.rb` for the latest [stable] beta build. Also, if you keep a [_Brewfile_](https://github.com/Homebrew/homebrew-bundle#usage), you can add something like this:
